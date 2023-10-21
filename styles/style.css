@@ -64,9 +64,7 @@
     line-height: 24.3px; /* 135% */
     margin: 0;
     font-size: 18px;
-    line-height: 24.3px;
     color: #000;
-    font-style: normal;
     font-weight: 400;
     text-underline-offset: 4px;
   }
@@ -147,7 +145,6 @@
     align-items:center;
     padding-top: 135px;
     justify-content: flex-end;
-    align-items: center;
     gap: 78px;
     margin: 0;
   }
@@ -272,7 +269,7 @@
   .card_type_picture {
     background-image: url(../images/card-lot-03.jpg);
     background-size: cover;
-    background-position: center; 
+    background-position: center;
     position: relative;
     top: 0;
     left: 0;
@@ -288,7 +285,7 @@
   }
   
   .about {
-    min-width: 1340px; 
+    min-width: 1340px;
     padding: 0px 50px;
     margin: 0;
     display: grid;
@@ -331,7 +328,7 @@
     display: flex;
     gap: 25px;
     flex-direction: column;
-    grid-column: 2/3; 
+    grid-column: 2/3;
     grid-row: 2/3;
     justify-self: stretch;
   }
