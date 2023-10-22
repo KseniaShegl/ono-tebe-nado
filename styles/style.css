@@ -347,7 +347,7 @@
     line-height: normal;
   }
 
-  .footer__menu-link_active{
+  .footer__menu-link_active {
     text-decoration: none;
   }
   
@@ -362,7 +362,7 @@
     list-style: none;
   }
 
-  .footer__social-link{
+  .footer__social-link {
     display: block;
     width: 48px;
   }
