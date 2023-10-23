@@ -322,12 +322,11 @@
     margin: 0;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 310px;*/
+    gap: 310px;
   }
   
   .footer__menu {
-    justify-self: center;
-    text-align: center;*/
+    text-align: center;
   }
   
   .footer__menu-list {
